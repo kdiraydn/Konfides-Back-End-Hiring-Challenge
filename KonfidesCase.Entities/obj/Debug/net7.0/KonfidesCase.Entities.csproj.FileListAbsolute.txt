@@ -1,0 +1,12 @@
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Entities\bin\Debug\net7.0\KonfidesCase.Entities.deps.json
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Entities\bin\Debug\net7.0\KonfidesCase.Entities.dll
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Entities\bin\Debug\net7.0\KonfidesCase.Entities.pdb
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Entities\obj\Debug\net7.0\KonfidesCase.Entities.csproj.AssemblyReference.cache
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Entities\obj\Debug\net7.0\KonfidesCase.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Entities\obj\Debug\net7.0\KonfidesCase.Entities.AssemblyInfoInputs.cache
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Entities\obj\Debug\net7.0\KonfidesCase.Entities.AssemblyInfo.cs
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Entities\obj\Debug\net7.0\KonfidesCase.Entities.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Entities\obj\Debug\net7.0\KonfidesCase.Entities.dll
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Entities\obj\Debug\net7.0\refint\KonfidesCase.Entities.dll
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Entities\obj\Debug\net7.0\KonfidesCase.Entities.pdb
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Entities\obj\Debug\net7.0\ref\KonfidesCase.Entities.dll

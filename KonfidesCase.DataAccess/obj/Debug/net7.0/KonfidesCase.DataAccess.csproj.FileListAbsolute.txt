@@ -1,0 +1,15 @@
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.DataAccess\bin\Debug\net7.0\KonfidesCase.DataAccess.deps.json
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.DataAccess\bin\Debug\net7.0\KonfidesCase.DataAccess.dll
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.DataAccess\bin\Debug\net7.0\KonfidesCase.DataAccess.pdb
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.DataAccess\bin\Debug\net7.0\KonfidesCase.Entities.dll
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.DataAccess\bin\Debug\net7.0\KonfidesCase.Entities.pdb
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.DataAccess\obj\Debug\net7.0\KonfidesCase.DataAccess.csproj.AssemblyReference.cache
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.DataAccess\obj\Debug\net7.0\KonfidesCase.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.DataAccess\obj\Debug\net7.0\KonfidesCase.DataAccess.AssemblyInfoInputs.cache
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.DataAccess\obj\Debug\net7.0\KonfidesCase.DataAccess.AssemblyInfo.cs
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.DataAccess\obj\Debug\net7.0\KonfidesCase.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.DataAccess\obj\Debug\net7.0\KonfidesCase.DataAccess.csproj.CopyComplete
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.DataAccess\obj\Debug\net7.0\KonfidesCase.DataAccess.dll
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.DataAccess\obj\Debug\net7.0\refint\KonfidesCase.DataAccess.dll
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.DataAccess\obj\Debug\net7.0\KonfidesCase.DataAccess.pdb
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.DataAccess\obj\Debug\net7.0\ref\KonfidesCase.DataAccess.dll

@@ -1,0 +1,17 @@
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Business\bin\Debug\net7.0\KonfidesCase.Business.deps.json
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Business\bin\Debug\net7.0\KonfidesCase.Business.dll
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Business\bin\Debug\net7.0\KonfidesCase.Business.pdb
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Business\bin\Debug\net7.0\KonfidesCase.DataAccess.dll
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Business\bin\Debug\net7.0\KonfidesCase.Entities.dll
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Business\bin\Debug\net7.0\KonfidesCase.DataAccess.pdb
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Business\bin\Debug\net7.0\KonfidesCase.Entities.pdb
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Business\obj\Debug\net7.0\KonfidesCase.Business.csproj.AssemblyReference.cache
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Business\obj\Debug\net7.0\KonfidesCase.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Business\obj\Debug\net7.0\KonfidesCase.Business.AssemblyInfoInputs.cache
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Business\obj\Debug\net7.0\KonfidesCase.Business.AssemblyInfo.cs
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Business\obj\Debug\net7.0\KonfidesCase.Business.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Business\obj\Debug\net7.0\KonfidesCase.Business.csproj.CopyComplete
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Business\obj\Debug\net7.0\KonfidesCase.Business.dll
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Business\obj\Debug\net7.0\refint\KonfidesCase.Business.dll
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Business\obj\Debug\net7.0\KonfidesCase.Business.pdb
+C:\Users\yavuz\RiderProjects\KonfidesCase\KonfidesCase.Business\obj\Debug\net7.0\ref\KonfidesCase.Business.dll

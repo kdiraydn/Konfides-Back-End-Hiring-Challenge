@@ -1,0 +1,21 @@
+﻿@model List<KonfidesCase.Entities.Concrete.Category>
+
+<a class="btn btn-success" asp-area="" asp-controller="Category" asp-action="Add">Add Category</a>
+<table class="table table-primary">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>
+                <a class="btn btn-warning" asp-area="" asp-controller="Category" asp-action="Update" asp-route-id="@item.Id">Update</a>
+                <a class="btn btn-danger" asp-area="" asp-controller="Category" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+    }
+</table>

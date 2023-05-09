@@ -1,0 +1,15 @@
+﻿@model LoginDto
+
+<form asp-action="Login">
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">User Name</label>
+        <input type="text" class="form-control" aria-describedby="emailHelp" asp-for="UserName">
+    </div>
+    
+    <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Password</label>
+        <input type="password" class="form-control" asp-for="Password">
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

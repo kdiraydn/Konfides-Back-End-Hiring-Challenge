@@ -1,0 +1,34 @@
+﻿@model List<KonfidesCase.Entities.Concrete.Event>
+
+<a class="btn btn-success" asp-area="" asp-controller="Event" asp-action="Add">Add Event</a>
+<table class="table table-primary">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Date</th>
+        <th>Description</th>
+        <th>City Name</th>
+        <th>Address</th>
+        <th>Quota</th>
+        <th>Category Name</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Date</td>
+            <td>@item.Description</td>
+            <td>@item.City.Name</td>
+            <td>@item.Address</td>
+            <td>@item.Quota</td>
+            <td>@item.Category.Name</td>
+            <td>
+                <a class="btn btn-warning @(item.Date.AddDays(-5) < DateTime.Now ? "disabled" : "")" asp-area="" asp-controller="Event" asp-action="Update" asp-route-id="@item.Id">Update</a>
+                <a class="btn btn-danger @(item.Date.AddDays(-5) < DateTime.Now ? "disabled" : "")" asp-area="" asp-controller="Event" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a class="btn btn-danger @(item.Date.AddDays(-5) < DateTime.Now ? "disabled" : "")" asp-area="" asp-controller="Event" asp-action="Join" asp-route-id="@item.Id">Join</a>
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,25 @@
+﻿@model UserDto
+
+<form asp-action="Register">
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Email address</label>
+        <input type="email" class="form-control" aria-describedby="emailHelp" asp-for="Email">
+    </div>
+    
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Name</label>
+        <input type="text" class="form-control" aria-describedby="emailHelp" asp-for="Name">
+    </div>
+    
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Surname</label>
+        <input type="text" class="form-control" aria-describedby="emailHelp" asp-for="Surname">
+    </div>
+    
+    <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Password</label>
+        <input type="password" class="form-control" asp-for="Password">
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
